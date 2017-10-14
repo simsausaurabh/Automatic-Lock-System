@@ -1,0 +1,3 @@
+python
+python-opencv
+xdotool
