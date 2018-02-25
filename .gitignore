@@ -1,0 +1,5 @@
+capture.pgm
+/training/positive
+mean.png
+negative_eigenface.png
+positive_eigenface.png
