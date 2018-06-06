@@ -30,3 +30,11 @@ This is a security tool to automatically lock the system when:
   - After complete capturing, run '''train.py''' file.
   - At last run '''facerecog.py''' file.
 
+## Donating
+If you find it useful, please support this Open Source project by just 1 USD and [others by simsausaurabh](https://github.com/simsausaurabh) via [PayPal](https://www.paypal.me/simsausaurabh/1usd).
+
+[![Support via PayPal][paypal-button]](https://www.paypal.me/simsausaurabh/1usd)
+
+[twolfson-projects]: https://github.com/simsausaurabh?tab=repositories
+[paypal-button]: http://rawgit.com/twolfson/paypal-github-button/master/dist/button.svg
+[paypal-twolfson]: https://www.paypal.me/simsausaurabh/1usd
